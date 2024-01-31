@@ -1,0 +1,14 @@
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/bin/Debug/net8.0/HelloDotnet
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/bin/Debug/net8.0/HelloDotnet.deps.json
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/bin/Debug/net8.0/HelloDotnet.runtimeconfig.json
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/bin/Debug/net8.0/HelloDotnet.dll
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/bin/Debug/net8.0/HelloDotnet.pdb
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.AssemblyInfoInputs.cache
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.AssemblyInfo.cs
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.csproj.CoreCompileInputs.cache
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.dll
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/refint/HelloDotnet.dll
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.pdb
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.genruntimeconfig.cache
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/ref/HelloDotnet.dll
