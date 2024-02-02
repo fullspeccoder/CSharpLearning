@@ -12,3 +12,4 @@
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.pdb
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.genruntimeconfig.cache
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/ref/HelloDotnet.dll
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnet/obj/Debug/net8.0/HelloDotnet.sourcelink.json

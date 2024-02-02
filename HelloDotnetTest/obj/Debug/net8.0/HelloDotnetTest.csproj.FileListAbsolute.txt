@@ -114,3 +114,4 @@
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnetTest/bin/Debug/net8.0/HelloDotnet
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnetTest/bin/Debug/net8.0/HelloDotnet.dll
 /Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnetTest/bin/Debug/net8.0/HelloDotnet.pdb
+/Users/jacobwilson/Documents/Coding/Game Development/Tutorials/C#/HelloDotnetTest/obj/Debug/net8.0/HelloDotnetTest.sourcelink.json
